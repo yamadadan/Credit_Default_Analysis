@@ -1,0 +1,21 @@
+        nan        nan 0.80923333 0.80866667 0.8087     0.80863333
+ 0.80946667 0.80943333        nan        nan        nan 0.80943333
+ 0.8096     0.80956667 0.8096    ]
+  warnings.warn(
+LR Best Score: 0.8096000000000001
+LR Best Hyperparameters: {'solver': 'liblinear', 'penalty': 'l2', 'C': 10}
+
+
+SVM Best Score: 0.8190333333333332
+SVM Best Hyperparameters: {'kernel': 'rbf', 'gamma': 0.1, 'C': 1000}
+
+
+KNN Best Score: 0.8102666666666667
+KNN Best Hyperparameters: {'n_neighbors': 15}
+
+
+DT Best Score: 0.8195333333333333
+DT Best Hyperparameters: {'max_depth': 2, 'criterion': 'gini'}
+
+
+ANN -> Rodou 5330 min sem sucesso
